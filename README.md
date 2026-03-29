@@ -28,7 +28,7 @@ Estrutura do projeto:
 - Dockerfile: instruções de build e inicialização da aplicação
 - requirements.txt: dependências utilizadas pela aplicação
 
-  Como executar localmente:
+Como executar localmente:
 
 -No terminal coloque: 
 
