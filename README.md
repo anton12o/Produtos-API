@@ -1,4 +1,4 @@
-                                    Produtos API
+*Produtos API*
 API REST desenvolvida como projeto prático de estudo, utilizando Python, FastAPI e PostgreSQL.
 
 Tecnologias utilizadas:
